@@ -1,5 +1,6 @@
 {
   "name": "Hungarian Power Outages Card",
+  "country": "HU",
   "filename": "hungarian-power-outages-card.js",
   "render_readme": true
 }
