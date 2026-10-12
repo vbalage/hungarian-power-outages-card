@@ -87,3 +87,8 @@ are installed together. [Report card issues here](https://github.com/vbalage/hun
 Node 22+ and pnpm 11.25.0: `pnpm install --frozen-lockfile`, `pnpm check`, `pnpm format:check`,
 `pnpm test`, `pnpm exec playwright install chromium`, `pnpm test:browser`, `pnpm build`.
 Tests use synthetic reports and mocked map tiles. MIT licensed; Leaflet's license is in [vendor/](vendor/).
+
+## Support
+
+If you find this project useful, you can [buy me a coffee](https://buymeacoffee.com/balazsviszy).
+Support is optional; the project remains free and open source.
