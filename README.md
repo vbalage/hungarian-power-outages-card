@@ -90,5 +90,7 @@ Tests use synthetic reports and mocked map tiles. MIT licensed; Leaflet's licens
 
 ## Support
 
+<a href="https://buymeacoffee.com/balazsviszy"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
+
 If you find this project useful, you can [buy me a coffee](https://buymeacoffee.com/balazsviszy).
 Support is optional; the project remains free and open source.
